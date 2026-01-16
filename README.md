@@ -200,4 +200,21 @@ By the end of this course, students will be able to:
 
 ### Week 11: Governance, Ethics, and Resilience
 **Lecture 21:** Ethics, Privacy, and Regulation  
-- GDPR, algorith
+- GDPR, algorithmic bias  
+- Debate session  
+- Reference: Laudon & Laudon, Ch. 4 (Sections 4.1–4.3)
+
+**Lecture 22:** IT Governance and Disaster Recovery  
+- RTO, RPO, resilience  
+- Case: Major ransomware incident  
+- Reference: Laudon & Laudon, Ch. 8 (Business Continuity)
+
+---
+
+## Week 12: Integration & Capstone
+**Lecture 23:** Digital Transformation Architecture  
+- Legacy systems and modernization  
+- Reference: MIT Sloan Digital Transformation Framework
+
+**Lecture 24:** Capstone Project Presentations  
+- Group presentation: Digital transformation roadmap with system architecture, data flows, and risk analysis
