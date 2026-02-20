@@ -38,12 +38,16 @@ Every CPU includes the following **three** components (Control Unit, Arithmetic 
  * **RAM:** The Main Memory or RAM (Random Access Memory) is used to store information that the CPU needs in a hurry.  RAM holds data and program instruction while while CPU works with them. When a program is launched it is loaded and run from memory. As program needs data, it is loaded into the memory for fast access. The main memory is nearly as fast as the CPU. But the information stored in the main memory vanishes when the computer is turned off. That’s why RAM is called volatile.
   * RAM has tremendous impact on the speed and power of a computer. Generally more 	RAM a computer has, the more it can do and the faster it can perform tasks. The most 	common measurement unit for describing a computer’s memory is the byte – the amount 	of memory it takes to store a single character such as a letter or a numeral. When 	referring to computer’s memory the numbers are often so large that it is helpful to use 	term such as kilobyte (KB), gigabyte (GB), and terabyte (TB) to describe the values.
  * **ROM:** Read-only Memory (ROM) stores its data permanently. It holds instructions that 	the computer needs to operate. Whenever the computer’s power is turned on, it checks 	ROM for directions that help it start up, and for information about its hardware device.
+
+### Storage 
  * **The Secondary Memory or storage** is also used to store information, but it is much slower than the main memory. The advantage of the secondary memory is that it can store information even when there is no power to the computer. Examples of secondary memory or storage are Hard Disk Drive (HDD), solid-state drive (SSD) or flash memory.
  * We may think storage as **electronic file cabinet** and RAM as an **electronic worktable**. When data needed computer locates it in the file cabinet and puts a copy on the table. After finishing work it is put back into file cabinet.
  * **Comparison between storage and RAM** can be made in the following ways:
    * There is more in storage than in memory, just as there is more room in a file cabinet than there is on a tabletop
    * Contents are retained in storage when the computer is turned off, whereas program or the data in memory disappear when we shut down the computer.
    * Storage device operate much slower than memory chips, but storage is much cheaper than memory.
+   * 
+### Input and output
      
 *	The **Input and Output Devices** are simply those that allow us to interact with the computer. Input devices accept data, for example: Keyboard, mouse. Output devices deliver data, for example: monitor, printer, and speaker. Some devices can both accept input and deliver output, for example: touch screens.
 * These days, most computers also have a Network Connection to retrieve information over a network. We can think of the network as a very slow place to store and retrieve data that might not always be "up". So in a sense, the network is a slower and at times unreliable form of Secondary Memory.
