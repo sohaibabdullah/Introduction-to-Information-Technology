@@ -12,8 +12,11 @@ So we can say computer hardware devices fall into one of **four** categories:
 1.	Processor
 2.	Memory
 3.	Input and output
-4.	Storage (secondary memory) 
-* <code style="color:red">Processor</code> is like the brain of the computer. It organizes and carries instructions that come from either the user or the software. A personal computer processor usually consists of one or more specialised chips, called a microprocessor, which are slivers (splinters) of silicon or other material etched with many tiny electronic circuits. The term Central Processing Unit (or CPU) refers to a computer’s processor.
+4.	Storage (secondary memory)
+<span style="color:red">
+Text content
+</span>
+* <span style="color:red">Processor</span> is like the brain of the computer. It organizes and carries instructions that come from either the user or the software. A personal computer processor usually consists of one or more specialised chips, called a microprocessor, which are slivers (splinters) of silicon or other material etched with many tiny electronic circuits. The term Central Processing Unit (or CPU) refers to a computer’s processor.
 Every CPU includes the following three components (Control Unit, Arithmetic Logic Unit [ALU] and Registers):
   * The **Control Unit manages** the flow of data through the CPU. It directs data to and from the other components within the CPU.
 
